@@ -9,4 +9,4 @@ Unfortunately, due to money and time constraints, I was unable to finish my orig
 
 "docker-compose.yml" contains instructions to pull docker images I built to host a local Postgres db and pgadmin4 server.
 
-"eGain_Sales_Dashboard" is an offline version of the Looker Studios Report, which also contains a link to the online version.
+"eGain_Sales_Dashboard" is an offline version of the Looker Studios Report (https://lookerstudio.google.com/reporting/01567e52-e013-43fc-8695-4260f64dd154).
