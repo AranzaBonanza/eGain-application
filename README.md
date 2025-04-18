@@ -8,3 +8,5 @@ Unfortunately, due to money and time constraints, I was unable to finish my orig
 "eGain visitor IP adjusted -Sheet1.csv" is the visitor weblog with the newly added information; downloadable for local use
 
 "docker-compose.yml" contains instructions to pull docker images I built to host a local Postgres db and pgadmin4 server.
+
+"eGain_Sales_Dashboard" is an offline version of the Looker Studios Report, which also contains a link to the online version.
